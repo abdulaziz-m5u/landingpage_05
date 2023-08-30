@@ -1,0 +1,71 @@
+### colors
+
+- primary color = #FDCB35
+- secondary color = #F9C015
+- text color = #282725
+- accent color = #5D5B56
+
+### font family
+
+- Poppins
+
+### navbar section
+- home
+- About us
+- Services 
+- Contact us
+
+- Order Now!
+
+### hero section
+- Order Products Faster Easier
+- Order your favorite foods at any time and we will deliver them right to where you are.
+- Get Started
+
+### about section
+- Find Out A Little More About Us
+- We are a company dedicated to the distribution of products by delivery to your home or to the place where you are, with the best quality of delivery.
+- Your Safety Is Important
+- When your order reaches you, we have the health safety protocols, so that you are protected from any disease. Watch the video of how the delivery is made.
+
+### service section
+- Some Services We Offer 
+* 
+- Payment Done
+- Pay with a Visa or PayPal card and without much ado.
+- Learn More
+* 
+- Find Your Product
+- We offer sale of products through the Internet.
+- Learn More
+* 
+- Product Received
+- In our app you can see the delay time of your order.
+- Learn More
+
+### app section
+- Watch Your Delivery At Any Time
+- With our app you can view the route of your order, from our local headquarters to the place where you are. Look for the app now!
+- App Store 
+- Google Play
+
+### contact section
+- Contact Us From Here
+- You can contact us from here, you can write to us, call us or visit our service center, we will gladly assist you.
+- Contact Us
+
+### footer section
+- Delivery
+- Order Products Faster Easier
+* 
+Our Services
+Pricing / Discounts / Report a bug / Terms of Service
+* 
+Our Company
+Blog / Our mision / Get in touch
+* 
+Community
+Support / Questions / Customer help
+*
+Address 
+999 - 888 - 777 / delivery@email.com / Lombok - Indonesia
